@@ -15,6 +15,6 @@
  	- Recusar a reserva; 
  	- Cancelar a reserva;
 
-*Modelo Entidade e Relacionamento 
+**Modelo Entidade e Relacionamento**
 ![Exemplo 1](/imagens/Teste.png)
 ![Exemplo 2](/imagens/MER-restaurante.png)
